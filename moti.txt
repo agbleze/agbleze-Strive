@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en-UK">
+<head>
+  <Title> Biography of Linus Agbleze </Title>
+  <meta charset="UTF-8">
+  <Title> Website of Agrimetry business </Title>
+  <meta charset="UTF-8">
+  <meta name="keywords" content="Linus Agbleze, Linus biography, why learn web development, Learn to code">
+  <meta name="description" content="Agrimetry support to small scale farmers">
+  <meta name="author" content="Linus Agbleze">
+  <meta http-equiv="refresh" content="30">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<Style> 
+a:link {
+ color: yellow;
+ <!--background-color: violet;-->
+ text-decoration: none;
+ text-align:center;
+ <!--padding:15px 20px;-->
+ <!--display:inline-block;-->
+
+}
+
+a:visited {
+  color: purple;
+  background-color:blue;
+  <!--text-decoration: none;-->
+  text-align: center;
+ <!-- padding: 15px 30px;-->
+  <!--display: inline-block;-->
+  
+  
+}
+
+a:hover {
+  color:brown;
+  <!--background-color:indigo;-->
+  text-decoration: underline;
+  
+}
+
+a:active {
+  color:red;
+  background-color:transparent;
+  text-decoration:underline;
+  
+}
+
+body{
+  background-image: url('https://image.freepik.com/free-photo/motivation-concept-woman-hands-holding-card-i-can-it-with-scissor_101840-13.jpg'); -->
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  text-color: black;
+}
+
+table, th, td {
+  border:3px solid blue;
+  <!--border-collapse:collapse;-->
+  color:green;
+  padding: 15px;
+  <!--border-spacing:5px;-->
+}
+
+th {
+  text-align:left;
+}
+
+table {
+  border-spacing:1px;
+
+}
+#th1 {
+  background-color:red;
+  color:black;
+}
+
+#Menu1 {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  Background-color:Green
+}
+
+#Menu1 li {
+  float:left;
+}
+
+#Menu1 li a {
+  display: block;
+  color: orange;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+#Menu1 li a:hover{
+  background-color: brown;
+  color: yellow;
+}
+
+#Menu1 li a:click{
+   color: purple;
+}
+
+</Style>
+
+</head>
+
+<body">
+
+<h1 style="font-size:130%px; color:yellow; text-align:center; border:2px solid violet;"> 
+
+<ul id="Menu1">
+  <li><a href="index.html" target = "_parent">ABOUT ME</a></li>
+  <li><a href="moti.html" target="_top">Motivation</a></li>
+  <li><a href ="Self preparedness.html" target="_parent">Self-preparedness</a></li>
+  <li><a href = "profoutlook.html" target="_parent" title= "My promising potentials to be a productive talent">Professional outlook</a></li>
+  <li><a href="Enq.html">Make enquiry</a></li>
+
+</ul>
+<br>
+<h1> Why I want to learn web development at <a href "https://strive.school/optin32129918#" 
+target = "_blank">Strive</a> </h1>
+<br>
+<h2> Learn new skills to solve societal problem </h2>
+
+<p style="font-family:cambria; font-size:120%"> My main motivation to learn web development and upgrade further to software engineering is to acquire the required 
+skills to <b>set-up my consultancy</b> and and <b>become a digital social entrepreneur</b>. Web development skills provides a fertile 
+ground for <b>self-employment</b> and this is my prime reason for taking the necessary step in that direction. Some of the 
+projects I aim to develop are already underway but my current skills level is inadequate to complete them hence the <ins><strong>needed 
+support from Strive</ins></strong>.
+</p>
+<br>
+<h2>Employment with dignity</h2>
+<p style="font-family:cambria; font-size:120%">The employment avenue that web development and software engineering creates is unlike others that I have engaged in. 
+It offers <strong>flexibility</strong> and <ins>tap into an individual's creativity which I would love to be part of my professional 
+environment.</ins> I would love to code as a job to enjoy the <b>dignity</b> that comes with like.
+</p>
+
+<br>
+<h2>You are paid what you deserve</h2>
+<p style="font-family:cambria; font-size:120%">
+Another reason for my decision to learn web development is base on the reward and future potentials for that to even increase. 
+Within the tech industry, web developers are not only among the top paid but also have steady demand for their skills. 
+Given that, <em>I am interested in job security that blends well with good pay, working on different projects and diversity,</em> 
+web development serves my ideal interest.
+</p>
+<br>
+<h2>Well-tailored course structure, skills and toolset</h2>
+<p style="font-family:cambria; font-size:120%">
+Upon reviewing the <a href "https://strive.school/optin32129918#" target = "_blank">course structure</a> on Strive website and requirements by most employers, I realized that 
+Strive offers a unique plethora of skills that are well-matched to what employers demand. This leaves me in no doubt to 
+prefer Strive to other schools. Meeting my peculiar needs is the fact that not only skills such as coding in 
+Javascript, using <b><abbr title= "Hypertext Markup Language">HTML</abbr></b> and <b><abbr title = "Cascading Style Sheets"
+>CSS </abbr></b> are taught but also state of the art tools such as React, Node.js and mongoDB among others. This creates
+room for me to specialize while also gaining the general skills of others.
+</p>
+<br>
+<h2>Ideal payment structure</h2>
+<p style="font-family:cambria; font-size:120%">
+What really grabs my attention is the unique payment structure which is well suited for me. The flexibility of having to pay
+after securing a job indicates the high level of trust and guarantee that is offered and the greater opportunity of focusing
+on the course without worrying about exorbitant initial fees. This is a perfect deal that can leverage my full concentration for the study.
+</p>
+<br>
+
+<h2>Mode of tutelage and time span of the course</h2>
+<p style="font-family:cambria; font-size:120%">
+ The option of online learning provided by Strive gives me the opportunity of coding from the comfort of my home &#128151.
+ Thus, no time is waste in travelling and associate cost of relocating are absent making the course cost effective &#128525. 
+ Moreover, the time span of the course will allow me to reap the fruit of my new skills in the short-term.
+</p>
+
+<br>
+
+
+<div style="background-color:yellow; background-image:url
+('https://as1.ftcdn.net/jpg/01/84/23/52/500_F_184235295_5DUm2PRqIdZH0uj4pAQj6cFUfupU36cy.jpg'); 
+background-repeat:no-repeat; background-attachment:fixed; background-size:cover; width: 30000"> 
+<h3><b><a id="ADD1">Contact</a></b></h3>
+<address id="opr"; Style="text-align:left;">
+
+Am Jesuitenhof<br>
+Bonn<br>
+Nordrhine Westphalia<br>  
+Germany<br>
+Lagbleze@st.ug.edu.gh<br>
++4915175701653<br>
+</address>
+<script>
+function myFunc5(){
+  document.getElementById("opr").style.fontSize= "30px";
+  document.getElementById("opr").style.color = "red";
+  document.getElementById("opr").style.backgroundColor = "yellow";
+}
+</script>
+<button type="button" onclick="myFunc5()">Magnify</button>
+
+</body>
+</html>

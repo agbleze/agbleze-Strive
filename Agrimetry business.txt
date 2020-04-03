@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <Title> Website of Agrimetry business </Title>
+  <meta charset="UTF-8">
+
+</head>
+
+<body>
+
+<h1 style="font-size:60px;"> Agrimetry Socprise</h1>
+
+<p>Agrimetry is as an organization employs geospatial technology to support precision agriculture for both commercial
+and non-commercial purposes. We analyze earth observation data into readily availabe information products that are required 
+to make well-informed decision on farm resource management, crop farming among others</p>
+
+<hr>
+<p> Our clients are segmented into two main target markets</p> 
+
+
+
+</body>
+</html>
