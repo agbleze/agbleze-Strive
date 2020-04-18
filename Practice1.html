@@ -60,5 +60,16 @@ p.work3 {color:yellow;
 <hr>
 <h2 id="bus1">Both open-source and proprietary software are use appropriately</h2> 
 
+<button>Press me</button>
+
+<script> 
+const button = document.querySelector('button');
+
+button.onclick = function() {
+	let service = prompt('Which services are you interested in?');
+	alert('Yes, ' +  service + ' is available! ' + 'Please make your order')
+}
+</script>
+
 </body>
 </html>
